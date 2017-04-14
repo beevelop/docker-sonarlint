@@ -7,6 +7,7 @@
 [![Beevelop](https://links.beevelop.com/honey-badge)](https://beevelop.com)
 
 # SonarLint for whale lovers
+> SonarLint offers the ability to scan code for bugs and quality issues, with several languages supported, minimal configuration and simple usage.
 ----
 ## Usage
 ```
